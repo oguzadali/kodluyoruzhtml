@@ -17,11 +17,11 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Front-End Eğitimi kapsamında 
 ![odev2](https://user-images.githubusercontent.com/67098980/166588101-f7efe25c-2aeb-4eeb-b252-0b541aed87b3.png)
 
 ### Ödev3 
-![odev3](https://user-images.githubusercontent.com/67098980/166588101-f7efe25c-2aeb-4eeb-b252-0b541aed87b3.png)
-![odev3](https://user-images.githubusercontent.com/67098980/166608108-0f99b75c-0918-476a-9c5c-428d93f0ddd0.png)
-![odev3](https://user-images.githubusercontent.com/67098980/166608111-d6633e9a-08cb-40b8-86d6-09a6a2809b80.png)
-![odev3](https://user-images.githubusercontent.com/67098980/166608114-439bfc22-bb6a-4932-8cd7-133920e61d34.png)
-![odev3](https://user-images.githubusercontent.com/67098980/166608122-43280864-ee67-46b9-a7ee-a2bb8dc9374a.png)
+![alistirma2](https://user-images.githubusercontent.com/67098980/166608401-036fafed-05b1-4050-9743-8f52ece765d4.png)
+![alistirma2](https://user-images.githubusercontent.com/67098980/166608408-4bdb26ce-2b15-4835-ab8e-626d7fcb59a0.png)
+![alistirma2](https://user-images.githubusercontent.com/67098980/166608414-db48f66a-2b67-43f6-8a63-f3899e2fe77f.png)
+![alistirma2](https://user-images.githubusercontent.com/67098980/166608420-eb8eb200-f609-441a-a565-a7e854825e3f.png)
+
 
 ## Patika.dev
 [Patika.dev](www.patika.dev)
