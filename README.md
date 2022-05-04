@@ -10,18 +10,25 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Front-End Eğitimi kapsamında 
 
 ## Projenin Resimleri
 
-### Ödev1
+### Ödev 1
 ![odev1](https://user-images.githubusercontent.com/67098980/166577264-632af899-2098-4e76-9d00-53346157fc53.png)
 
-### Ödev2
+### Ödev 2
 ![odev2](https://user-images.githubusercontent.com/67098980/166588101-f7efe25c-2aeb-4eeb-b252-0b541aed87b3.png)
 
-### Ödev3 
+### Alıştırma 2
 ![alistirma2](https://user-images.githubusercontent.com/67098980/166608401-036fafed-05b1-4050-9743-8f52ece765d4.png)
+
 ![alistirma2](https://user-images.githubusercontent.com/67098980/166608408-4bdb26ce-2b15-4835-ab8e-626d7fcb59a0.png)
+
 ![alistirma2](https://user-images.githubusercontent.com/67098980/166608414-db48f66a-2b67-43f6-8a63-f3899e2fe77f.png)
+
 ![alistirma2](https://user-images.githubusercontent.com/67098980/166608420-eb8eb200-f609-441a-a565-a7e854825e3f.png)
 
+### Ödev 3
+![odev3](https://user-images.githubusercontent.com/67098980/166611070-f98a0f05-621b-4477-9a7c-e9132e261715.png)
+
+---------
 
 ## Patika.dev
 [Patika.dev](www.patika.dev)
